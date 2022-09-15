@@ -12,7 +12,7 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 - HTML
 - CSS
-- Gii e Github
+- Git e Github
 
 ## ✉️ Contato
 
